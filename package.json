@@ -1,5 +1,5 @@
 {
-  "name": "seo-os-nico-testing",
+  "name": "seo-os-dashboard",
   "version": "0.1.0",
   "type": "module",
   "description": "SEO OS hosted dashboard - Cloudflare Worker serving the operator command center over D1, fed by a VPS Hermes worker.",
